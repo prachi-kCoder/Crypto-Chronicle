@@ -1,0 +1,380 @@
+[
+    
+      {
+        "id": "bybit_spot",
+        "image": "https://assets.coingecko.com/markets/images/698/small/bybit_spot.png?1706864649"
+      },
+      {
+        "id": "okex",
+        "image": "https://assets.coingecko.com/markets/images/96/small/WeChat_Image_20220117220452.png?1706864283"
+      },
+      {
+        "id": "gdax",
+        "image": "https://assets.coingecko.com/markets/images/23/small/Coinbase_Coin_Primary.png?1706864258"
+      },
+      {
+        "id": "kucoin",
+        "image": "https://assets.coingecko.com/markets/images/61/small/kucoin.png?1706864282"
+      },
+      {
+        "id": "crypto_com",
+        "image": "https://assets.coingecko.com/markets/images/589/small/h2oMjPp6_400x400.jpg?1706864542"
+      },
+      {
+        "id": "kraken",
+        "image": "https://assets.coingecko.com/markets/images/29/small/kraken.jpg?1706864265"
+      },
+      {
+        "id": "bitfinex",
+        "image": "https://assets.coingecko.com/markets/images/4/small/BItfinex.png?1706864245"
+      },
+      {
+        "id": "hashkey_exchange",
+        "image": "https://assets.coingecko.com/markets/images/1206/small/hashkey_2.png?1706869603"
+      },
+      {
+        "id": "wootrade",
+        "image": "https://assets.coingecko.com/markets/images/683/small/woo.png?1706864629"
+      },
+      {
+        "id": "binance_us",
+        "image": "https://assets.coingecko.com/markets/images/469/small/Binance.png?1706864454"
+      },
+      {
+        "id": "binance",
+        "image": "https://assets.coingecko.com/markets/images/52/small/binance.jpg?1706864274"
+      },
+      {
+        "id": "huobi",
+        "image": "https://assets.coingecko.com/markets/images/25/small/logo_V_colour_black.png?1706864260"
+      },
+      {
+        "id": "bitget",
+        "image": "https://assets.coingecko.com/markets/images/540/small/2023-07-25_21.47.43.jpg?1706864507"
+      },
+      {
+        "id": "mxc",
+        "image": "https://assets.coingecko.com/markets/images/409/small/MEXC_logo_square.jpeg?1706864416"
+      },
+      {
+        "id": "upbit",
+        "image": "https://assets.coingecko.com/markets/images/117/small/upbit.png?1706864294"
+      },
+      {
+        "id": "biconomy",
+        "image": "https://assets.coingecko.com/markets/images/633/small/biconomy-cex.png?1706864578"
+      },
+      {
+        "id": "bingx",
+        "image": "https://assets.coingecko.com/markets/images/812/small/YtFwQwJr_400x400.jpg?1706864837"
+      },
+      {
+        "id": "backpack_exchange",
+        "image": "https://assets.coingecko.com/markets/images/1387/small/backpack.jpeg?1708663541"
+      },
+      {
+        "id": "bitstamp",
+        "image": "https://assets.coingecko.com/markets/images/9/small/bitstamp.jpg?1706864251"
+      },
+      {
+        "id": "exmo",
+        "image": "https://assets.coingecko.com/markets/images/59/small/tt_ava.jpg?1706864278"
+      },
+      {
+        "id": "gemini",
+        "image": "https://assets.coingecko.com/markets/images/50/small/gemini.png?1706864273"
+      },
+      {
+        "id": "indodax",
+        "image": "https://assets.coingecko.com/markets/images/3/small/logogram-Indodax-new-_JPG_format.jpg?1706864243"
+      },{
+        "id": "bitcastle",
+        "image": "https://assets.coingecko.com/markets/images/1341/small/bitcastle_logo.png?1706865343"
+      },
+      {
+        "id": "coinspro",
+        "image": "https://assets.coingecko.com/markets/images/999/small/coinspro.png?1706864987"
+      },{
+        "id": "luno",
+        "image": "https://assets.coingecko.com/markets/images/33/small/RGB_LUNO_SYMBOL_NAVY_BLUE_1.png?1706864266"
+      },
+      {
+        "id": "whitebit",
+        "image": "https://assets.coingecko.com/markets/images/418/small/800_800.jpg?1706864419"
+      },{
+        "id": "gate",
+        "image": "https://assets.coingecko.com/markets/images/60/small/gate_io_logo1.jpg?1706864280"
+      },
+      {
+        "id": "bitmart",
+        "image": "https://assets.coingecko.com/markets/images/239/small/Bitmart.png?1706864341"
+      },{
+        "id": "coinw",
+        "image": "https://assets.coingecko.com/markets/images/1172/small/coinw_new_logo.png?1713879109"
+      },
+      {
+        "id": "xt",
+        "image": "https://assets.coingecko.com/markets/images/404/small/logo400x400.png?1706864415"
+      },{
+        "id": "lbank",
+        "image": "https://assets.coingecko.com/markets/images/118/small/LBank_logo.png?1706864296"
+      },
+      {
+        "id": "deepcoin",
+        "image": "https://assets.coingecko.com/markets/images/1005/small/deepcoin.jpeg?1706864992"
+      },{
+        "id": "bitrue",
+        "image": "https://assets.coingecko.com/markets/images/254/small/unnamed_%281%29.png?1706864350"
+      },
+      {
+        "id": "bitvavo",
+        "image": "https://assets.coingecko.com/markets/images/714/small/bitvavo-mark-square-black.png?1706864670"
+      },{
+        "id": "bybit_spot",
+        "image": "https://assets.coingecko.com/markets/images/698/small/bybit_spot.png?1706864649"
+      },
+      {
+        "id": "coinstore",
+        "image": "https://assets.coingecko.com/markets/images/747/small/coinstore.jpeg?1706864780"
+      },{
+        "id": "bybit_spot",
+        "image": "https://assets.coingecko.com/markets/images/698/small/bybit_spot.png?1706864649"
+      },
+      {
+        "id": "btse",
+        "image": "https://assets.coingecko.com/markets/images/464/small/BTSE.jpg?1706864449"
+      },{
+        "id": "phemex",
+        "image": "https://assets.coingecko.com/markets/images/564/small/phemex_logo.png?1706864519"
+      },
+      {
+        "id": "okex",
+        "image": "https://assets.coingecko.com/markets/images/96/small/WeChat_Image_20220117220452.png?1706864283"
+      },{
+        "id": "pointpay",
+        "image": "https://assets.coingecko.com/markets/images/1060/small/pointpay_logo2.png?1716858068"
+      },
+      {
+        "id": "bitso",
+        "image": "https://assets.coingecko.com/markets/images/8/small/Bitso-icon-dark.png?1706864249"
+      },
+      {
+        "id": "bitbank",
+        "image": "https://assets.coingecko.com/markets/images/122/small/bitbank.jpg?1706864298"
+      },{
+        "id": "max_maicoin",
+        "image": "https://assets.coingecko.com/markets/images/218/small/max.jpg?1706864331"
+      },
+      {
+        "id": "bullish_com",
+        "image": "https://assets.coingecko.com/markets/images/905/small/bullish_com.png?1706864904"
+      },{
+        "id": "bitopro",
+        "image": "https://assets.coingecko.com/markets/images/358/small/bitopro_coingecko_250x250_%281%29.png?1706864386"
+      },
+      {
+        "id": "kuna",
+        "image": "https://assets.coingecko.com/markets/images/97/small/kuna_exchange.png?1706864284"
+      },{
+        "id": "slex",
+        "image": "https://assets.coingecko.com/markets/images/1527/small/slex_200x200_2.png?1711335245"
+      },
+      {
+        "id": "nice_hash",
+        "image": "https://assets.coingecko.com/markets/images/546/small/logo_small_light.png?1706864513"
+      },{
+        "id": "okcoin",
+        "image": "https://assets.coingecko.com/markets/images/415/small/okcoin_Logomark_SatoshiBlack.png?1706864417"
+      },
+      {
+        "id": "bitso",
+        "image": "https://assets.coingecko.com/markets/images/8/small/Bitso-icon-dark.png?1706864249"
+      },
+      {
+        "id": "p2pb2b",
+        "image": "https://assets.coingecko.com/markets/images/251/small/ow0xng56_400x400.jpeg?1706864347"
+      },{
+        "id": "digifinex",
+        "image": "https://assets.coingecko.com/markets/images/225/small/DF_logo.png?1706864334"
+      },
+      {
+        "id": "bithumb",
+        "image": "https://assets.coingecko.com/markets/images/6/small/bithumb_BI.png?1706864248"
+      },{
+        "id": "bigone",
+        "image": "https://assets.coingecko.com/markets/images/100/small/qcFFufEY_400x400.jpg?1706864287"
+      },
+      {
+        "id": "bitvenus_spot",
+        "image": "https://assets.coingecko.com/markets/images/1253/small/BitVenus_logo.png?1709559502"
+      },{
+        "id": "bitmax",
+        "image": "https://assets.coingecko.com/markets/images/277/small/%E5%8E%9F%E8%89%B2.png?1706864357"
+      },
+      {
+        "id": "bitunix",
+        "image": "https://assets.coingecko.com/markets/images/1185/small/APP_icon_1024.png?1706865197"
+      },{
+        "id": "latoken",
+        "image": "https://assets.coingecko.com/markets/images/124/small/latoken.png?1706864301"
+      },
+      {
+        "id": "tapbit",
+        "image": "https://assets.coingecko.com/markets/images/1374/small/Tapbit-Logo.png?1706865388"
+      },
+      {
+        "id": "azbit",
+        "image": "https://assets.coingecko.com/markets/images/787/small/logo.png?1706864819"
+      },{
+        "id": "pionex",
+        "image": "https://assets.coingecko.com/markets/images/1026/small/pionex.png?1706865056"
+      },
+      {
+        "id": "fastex",
+        "image": "https://assets.coingecko.com/markets/images/1091/small/fastex.png?1706865112"
+      },{
+        "id": "probit",
+        "image": "https://assets.coingecko.com/markets/images/370/small/probit.png?1706864390"
+      },
+      {
+        "id": "bydfi",
+        "image": "https://assets.coingecko.com/markets/images/1186/small/photo_2024-03-20_11-10-03.jpg?1710914231"
+      },{
+        "id": "c_patex",
+        "image": "https://assets.coingecko.com/markets/images/246/small/Exchange.jpg?1706864344"
+      },
+      {
+        "id": "bitflyer",
+        "image": "https://assets.coingecko.com/markets/images/5/small/bitFlyer-logo.png?1706864247"
+      },{
+        "id": "hashkey-global",
+        "image": "https://assets.coingecko.com/markets/images/1582/small/20240422-181043.jpg?1715067065"
+      },
+      {
+        "id": "coinex",
+        "image": "https://assets.coingecko.com/markets/images/135/small/coinex.jpg?1706864305"
+      },
+      {
+        "id": "bitdelta",
+        "image": "https://assets.coingecko.com/markets/images/1317/small/BitDelta_Logo_200x200.png?1706865321"
+      },{
+        "id": "dextrade",
+        "image": "https://assets.coingecko.com/markets/images/380/small/Dex-Trade.png?1706864395"
+      },
+      {
+        "id": "cryptology",
+        "image": "https://assets.coingecko.com/markets/images/287/small/logo-symbol.png?1706864361"
+      },{
+        "id": "bitkub",
+        "image": "https://assets.coingecko.com/markets/images/249/small/bitkub.png?1706864345"
+      },
+      {
+        "id": "bitazza",
+        "image": "https://assets.coingecko.com/markets/images/837/small/btzlogo200x200_darkgreen.png?1706864859"
+      },{
+        "id": "nonkyc_io",
+        "image": "https://assets.coingecko.com/markets/images/1281/small/NKYC-Logo.png?1706865279"
+      },
+      {
+        "id": "kanga",
+        "image": "https://assets.coingecko.com/markets/images/852/small/KaNGa_logo.png?1706864870"
+      },{
+        "id": "independent_reserve",
+        "image": "https://assets.coingecko.com/markets/images/389/small/x_V5Jquo_400x400.png?1706864404"
+      },
+      {
+        "id": "mercado_bitcoin",
+        "image": "https://assets.coingecko.com/markets/images/34/small/logo_MB_hexagono.png?1706864267"
+      },{
+        "id": "korbit",
+        "image": "https://assets.coingecko.com/markets/images/28/small/korbit-logo.png?1706864263"
+      },{
+        "id": "xeggex",
+        "image": "https://assets.coingecko.com/markets/images/1299/small/XeggeX_Logo_200.png?1706865292"
+      },{
+        "id": "coindcx",
+        "image": "https://assets.coingecko.com/markets/images/520/small/coindcx.png?1706864493"
+      },
+      {
+        "id": "btcmarkets",
+        "image": "https://assets.coingecko.com/markets/images/237/small/BTCMarkets_logo2.png?1706864340"
+      },{
+        "id": "foxbit",
+        "image": "https://assets.coingecko.com/markets/images/864/small/foxbit.jpeg?1706864880"
+      },{
+        "id": "cex",
+        "image": "https://assets.coingecko.com/markets/images/56/small/main-icon.png?1706864277"
+      },{
+        "id": "nominex",
+        "image": "https://assets.coingecko.com/markets/images/530/small/logo-200x200.png?1706864500"
+      },
+      {
+        "id": "delta_spot",
+        "image": "https://assets.coingecko.com/markets/images/642/small/delta_spot.jpg?1706864589"
+      },{
+        "id": "bitmex_spot",
+        "image": "https://assets.coingecko.com/markets/images/866/small/bitmex.jpeg?1706864881"
+      },{
+        "id": "uniswap_v3",
+        "image": "https://assets.coingecko.com/markets/images/665/small/uniswap-v3.png?1706864608"
+      },{
+        "id": "orangex",
+        "image": "https://assets.coingecko.com/markets/images/1272/small/Subtract.png?1706865272"
+      },
+      {
+        "id": "cointr",
+        "image": "https://assets.coingecko.com/markets/images/1028/small/cointr.png?1706865058"
+      },{
+        "id": "weex",
+        "image": "https://assets.coingecko.com/markets/images/1398/small/WEEX-icon-200.png?1706865400"
+      },{
+        "id": "uniswap_v2",
+        "image": "https://assets.coingecko.com/markets/images/535/small/256x256_Black-1.png?1706864503"
+      },{
+        "id": "uniswap_v3_arbitrum",
+        "image": "https://assets.coingecko.com/markets/images/702/small/uniswap-v3.png?1706864655"
+      },
+      {
+        "id": "toobit",
+        "image": "https://assets.coingecko.com/markets/images/1139/small/Toobit_logo400X400.png?1706865157"
+      },{
+        "id": "pancakeswap-v3-bsc",
+        "image": "https://assets.coingecko.com/markets/images/1111/small/pancakeswap.jpeg?1706865132"
+      },
+      {
+        "id": "citex",
+        "image": "https://assets.coingecko.com/markets/images/390/small/CITEX-LOGO.png?1706864406"
+      },{
+        "id": "uniswap-v3-base",
+        "image": "https://assets.coingecko.com/markets/images/1212/small/uniswap-v3.jpg?1706865221"
+      },{
+        "id": "raydium-clmm",
+        "image": "https://assets.coingecko.com/markets/images/1421/small/raydium.jpeg?1707371905"
+      },
+      {
+        "id": "bitci",
+        "image": "https://assets.coingecko.com/markets/images/450/small/Bitci.jpg?1706864442"
+      },{
+        "id": "paribu",
+        "image": "https://assets.coingecko.com/markets/images/136/small/paribu.jpg?1706864307"
+      },{
+        "id": "uniswap_v3_polygon_pos",
+        "image": "https://assets.coingecko.com/markets/images/752/small/uniswap-polygon.png?1706864784"
+      },
+      {
+        "id": "btcturk",
+        "image": "https://assets.coingecko.com/markets/images/223/small/btctrurk_kripto.png?1706864333"
+      },{
+        "id": "bit2me",
+        "image": "https://assets.coingecko.com/markets/images/1137/small/bit2me.png?1706865155"
+      },{
+        "id": "thruster-v3",
+        "image": "https://assets.coingecko.com/markets/images/1460/small/thrusterfi.jpeg?1709253847"
+      },
+      {
+        "id": "pancakeswap-v3-ethereum",
+        "image": "https://assets.coingecko.com/markets/images/1112/small/pancakeswap.jpeg?1706865133"
+      }
+
+    ]
+  
